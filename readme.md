@@ -1,9 +1,9 @@
 ﻿## 概述
 ### 软件环境
  - Toolchain/IDE : MDK-ARM V5
- - STM32F4xx_DFP Packs:2.13.0
- - STM32CubeMx:5.2.1
- - package version: STM32Cube FW_F4 V1.21.1
+ - STM32F4xx_DFP Packs:2.15.0
+ - STM32CubeMx:6.0.1
+ - package version: STM32Cube FW_F4 V1.25.2
  - FreeRTOS version: 10.0.1
  - CMSIS-RTOS version: 1.02
  
